@@ -1,0 +1,3 @@
+git branch -M main
+git remote add origin https://%1B%5BA%1B%5BA%1B%5BB%1B%5BB%1B%5BBWong%20Sze%20Yuan@github.com>.git
+git push -u origin main
